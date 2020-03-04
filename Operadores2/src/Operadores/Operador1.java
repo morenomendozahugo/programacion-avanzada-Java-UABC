@@ -1,7 +1,9 @@
 /*
+ * Practica #2
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ * Moreno Hugo
  */
 package Operadores;
 
@@ -83,7 +85,7 @@ public int residuoEnDivision(int dividendo, int divisor){
    /**
     * Este metodo determina si un numero es par o impar
     * @param numeroAEvaluar 
-    * @author Ali
+    * @author 
     */
    public static void parOImpar(int numeroAEvaluar){
        if (numeroAEvaluar % 2 == 0){
