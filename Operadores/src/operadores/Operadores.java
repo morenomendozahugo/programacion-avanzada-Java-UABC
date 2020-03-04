@@ -1,4 +1,10 @@
-//Practica #1
+/*
+ * Practica #1
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ * Moreno Hugo
+ */
 package operadores;
 /**
  * Esta clase muestra el uso de los operadores en la clase java
